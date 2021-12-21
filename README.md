@@ -29,7 +29,7 @@
 
 ## Diagrama de Classes
 
-<img src=DiagramaDeClasse.png />
+<img src=DiagramaDeClasse.pg />
 
 ## Diagrama Entidade Relacionamentos
 
