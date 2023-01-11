@@ -12,7 +12,7 @@
   #### +Properties
   #### +Views
   #### +Properties
-  #### +wwwroot
+
   
   ### Arquivos
   #### MinhaViagem_V1.csproj
