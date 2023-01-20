@@ -23,7 +23,7 @@
   #### appsettings.json
   
   ## Banco de Dados
-  ### +BANCO DE DADOS
+ 
   
   
 
